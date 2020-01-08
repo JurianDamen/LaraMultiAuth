@@ -1,12 +1,12 @@
 {
-  "name": "rspeekenbrink/laramultiauth",
+  "name": "juriandamen/laramultiauthV2",
   "description": "Multi Authentication for Laravel",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "Remco Speekenbrink",
-      "email": "98remco@gmail.com"
+      "name": "IC10",
+      "email": "dev@ic10.nl"
     }
   ],
   "require": {
